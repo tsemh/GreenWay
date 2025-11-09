@@ -18,17 +18,17 @@ ou gere um executável
 GreenWay/
 │
 ├── src/
-│   └── GreenWay/
-│       ├── app.py
-│       ├── br/com/unip/aps/greenway/
-│       │   ├── View/
-│       │   │   ├── login.py
-│       │   │   ├── register.py
-│       │   │   └── home.py
-│       │   └── Repository/
-│       │       └── greenWayRepository.py
-│       └── resources/
-│           ├── images/
-│           └── dataBase/greenway.db
+│ └── GreenWay/
+│ ├── app.py
+│ ├── br/com/unip/aps/greenway/
+│ │ ├── View/
+│ │ │ ├── login.py
+│ │ │ ├── register.py
+│ │ │ └── home.py
+│ │ └── Repository/
+│ │ └── greenWayRepository.py
+│ └── resources/
+│ ├── images/
+│ └── dataBase/greenway.db
 │
 └── README.md
