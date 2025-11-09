@@ -9,9 +9,9 @@ O projeto possui sistema de **login, cadastro e pontuação** com base nas açõ
 - **BeeWare / Toga**
 
 ## Como Executar o Projeto
-# No diretório com o arquivo "pyproject.toml" rode o seguinte comando 
+### No diretório com o arquivo "pyproject.toml" rode o seguinte comando 
 - briefcase dev
-# ou gere um executável
+### ou gere um executável
 - briefcase build
 - briefcase run
 
