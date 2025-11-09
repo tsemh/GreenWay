@@ -15,20 +15,5 @@ ou gere um executável
 - briefcase run
 
 ### 1. Estrutura do projeto
-GreenWay/
-│
-├── src/
-│ └── GreenWay/
-│ ├── app.py
-│ ├── br/com/unip/aps/greenway/
-│ │ ├── View/
-│ │ │ ├── login.py
-│ │ │ ├── register.py
-│ │ │ └── home.py
-│ │ └── Repository/
-│ │ └── greenWayRepository.py
-│ └── resources/
-│ ├── images/
-│ └── dataBase/greenway.db
-│
-└── README.md
+<img width="268" height="242" alt="{23C77676-5D94-43F6-BE6F-4C34A41A57D2}" src="https://github.com/user-attachments/assets/a0ad4562-75aa-49fe-b1b1-4701b3a716c7" />
+
